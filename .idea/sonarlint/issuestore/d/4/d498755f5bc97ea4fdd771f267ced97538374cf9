@@ -1,0 +1,10 @@
+
+:
+java:S1659
+"Declare "j" on a separate line.(ùë”óÿÿÿÿÿ
+Q
+java:S1119";Refactor the code to remove this label and the need for it.(÷Ž‰—
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ä„É 
+]	java:S125!"<This block of commented-out lines of code should be removed.(ø÷¯Ðÿÿÿÿÿ8Ñ‘ƒÁ0
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ô·Ãûÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(Ý¶§†þÿÿÿÿ
